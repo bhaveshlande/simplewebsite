@@ -1,0 +1,9 @@
+/* styles.css */
+.banner {
+  background-image: url('../../assets/pagenotfoundimage.jpg'); /* Specify the path to your image */
+  background-size: cover; /* Adjust background size as needed */
+  background-position: center; /* Center the background image */
+  height: 600px; /* Set the desired height for your banner */
+  width: auto;
+  /* Add other styles as needed */
+}
