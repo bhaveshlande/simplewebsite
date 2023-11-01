@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bhaveshlande/simplewebsite.git/static/css/main.72e1f35c.css",
+    "main.js": "/bhaveshlande/simplewebsite.git/static/js/main.7090e604.js",
+    "static/media/pagenotfoundimage.jpg": "/bhaveshlande/simplewebsite.git/static/media/pagenotfoundimage.aed2714ad5042c38e5b5.jpg",
+    "static/media/logo.png": "/bhaveshlande/simplewebsite.git/static/media/logo.729fe42e7d23a7906fd5.png",
+    "index.html": "/bhaveshlande/simplewebsite.git/index.html",
+    "main.72e1f35c.css.map": "/bhaveshlande/simplewebsite.git/static/css/main.72e1f35c.css.map",
+    "main.7090e604.js.map": "/bhaveshlande/simplewebsite.git/static/js/main.7090e604.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72e1f35c.css",
+    "static/js/main.7090e604.js"
+  ]
+}
