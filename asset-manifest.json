@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bhaveshlande/simplewebsite/static/css/main.eb072082.css",
-    "main.js": "/bhaveshlande/simplewebsite/static/js/main.7863e3fc.js",
-    "static/media/pagenotfoundimage.jpg": "/bhaveshlande/simplewebsite/static/media/pagenotfoundimage.aed2714ad5042c38e5b5.jpg",
-    "static/media/logo.png": "/bhaveshlande/simplewebsite/static/media/logo.729fe42e7d23a7906fd5.png",
-    "index.html": "/bhaveshlande/simplewebsite/index.html",
-    "main.eb072082.css.map": "/bhaveshlande/simplewebsite/static/css/main.eb072082.css.map",
-    "main.7863e3fc.js.map": "/bhaveshlande/simplewebsite/static/js/main.7863e3fc.js.map"
+    "main.css": "/simplewebsite/static/css/main.bb79c384.css",
+    "main.js": "/simplewebsite/static/js/main.706f82b9.js",
+    "static/media/pagenotfoundimage.jpg": "/simplewebsite/static/media/pagenotfoundimage.aed2714ad5042c38e5b5.jpg",
+    "static/media/logo.png": "/simplewebsite/static/media/logo.729fe42e7d23a7906fd5.png",
+    "index.html": "/simplewebsite/index.html",
+    "main.bb79c384.css.map": "/simplewebsite/static/css/main.bb79c384.css.map",
+    "main.706f82b9.js.map": "/simplewebsite/static/js/main.706f82b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb072082.css",
-    "static/js/main.7863e3fc.js"
+    "static/css/main.bb79c384.css",
+    "static/js/main.706f82b9.js"
   ]
 }
