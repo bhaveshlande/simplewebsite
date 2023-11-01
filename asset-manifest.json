@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cinemate/static/css/main.6bcd5c29.css",
-    "main.js": "/cinemate/static/js/main.495bb0ec.js",
+    "main.js": "/cinemate/static/js/main.c3efd770.js",
     "static/media/pagenotfoundimage.jpg": "/cinemate/static/media/pagenotfoundimage.aed2714ad5042c38e5b5.jpg",
     "static/media/logo.png": "/cinemate/static/media/logo.729fe42e7d23a7906fd5.png",
     "index.html": "/cinemate/index.html",
     "main.6bcd5c29.css.map": "/cinemate/static/css/main.6bcd5c29.css.map",
-    "main.495bb0ec.js.map": "/cinemate/static/js/main.495bb0ec.js.map"
+    "main.c3efd770.js.map": "/cinemate/static/js/main.c3efd770.js.map"
   },
   "entrypoints": [
     "static/css/main.6bcd5c29.css",
-    "static/js/main.495bb0ec.js"
+    "static/js/main.c3efd770.js"
   ]
 }
