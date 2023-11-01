@@ -2,7 +2,7 @@
   "name": "demo-website-assign",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bhaveshlande.github.io/simplewebsite",
+  "homepage": "https://bhaveshlande.github.io/cinemate",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
